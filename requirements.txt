@@ -1,0 +1,13 @@
+# Direct analytical dependencies
+numpy
+pandas
+matplotlib
+
+# Excel .xlsm reader used by pandas
+openpyxl
+
+# Notebook execution interface
+notebook
+ipykernel
+
+# Original package versions were not recorded; this is not a lockfile.
