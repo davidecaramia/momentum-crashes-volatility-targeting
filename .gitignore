@@ -1,0 +1,29 @@
+# Source workbooks (local inputs, not included in the repository)
+SPX500 Original.xlsm
+Stoxx 600 Originale.xlsm
+data/
+
+# Generated local exports
+outputs/
+exports/
+
+# Python environments and cache
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+
+# Jupyter checkpoints (keep the main notebook and its saved outputs)
+.ipynb_checkpoints/
+
+# Local configuration
+.env
+.env.*
+!.env.example
+.idea/
+.vscode/
+
+# Temporary Office and operating-system files
+~$*
+.DS_Store
+Thumbs.db
